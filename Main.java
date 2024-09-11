@@ -1,4 +1,5 @@
 package com;
+
 import java.util.Scanner;
 class EmployeeWageComputation {
     int wagePerHour;
